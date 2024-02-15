@@ -26,8 +26,8 @@ async def auto_leave():
                         ]:
                             if (
                                 i.chat.id != config.LOGGER_ID
-                                and i.chat.id != -1001626004802
-                                and i.chat.id != -1001876397776
+                                and i.chat.id != -1002025518353
+                                and i.chat.id != -1002085086663
                             ):
                                 if left == 20:
                                     continue
@@ -65,7 +65,7 @@ async def auto_end():
                 try:
                     await app.send_message(
                         chat_id,
-                        "» ʙᴏᴛ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʟᴇғᴛ ᴠɪᴅᴇᴏᴄʜᴀᴛ ʙᴇᴄᴀᴜsᴇ ɴᴏ ᴏɴᴇ ᴡᴀs ʟɪsᴛᴇɴɪɴɢ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
+                        "» Voicechat එකේ කවුරුත් නැති නිසා අයින් උනා.",
                     )
                 except:
                     continue
