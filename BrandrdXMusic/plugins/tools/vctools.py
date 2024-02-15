@@ -5,11 +5,11 @@ from config import OWNER_ID
 # vc on
 @app.on_message(filters.video_chat_started)
 async def brah(_, msg):
-       await msg.reply("ᴠᴏɪᴄᴇ ᴄʜᴀᴛ sᴛᴀʀᴛᴇᴅ")
+       await msg.reply("ᴠᴏɪᴄᴇ ᴄʜᴀᴛ එක පටන් ගත්ත ලමායි...")
 # vc off
 @app.on_message(filters.video_chat_ended)
 async def brah2(_, msg):
-       await msg.reply("**ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴇɴᴅᴇᴅ**")
+       await msg.reply("**ᴠᴏɪᴄᴇ ᴄʜᴀᴛ එක ඉවරයි**")
 
 # invite members on vc
 @app.on_message(filters.video_chat_members_invited)
@@ -44,7 +44,7 @@ def calculate_math(client, message):
 @app.on_message(filters.command("leavegroup")& filters.user(OWNER_ID))
 async def bot_leave(_, message):
     chat_id = message.chat.id
-    text = f"sᴜᴄᴄᴇssғᴜʟʟʏ   ʟᴇғᴛ  !!."
+    text = f"එහෙනම් කොල්ලො අපි ගියා  !!."
     await message.reply_text(text)
     await app.leave_chat(chat_id=chat_id, delete=True)
 
@@ -76,6 +76,6 @@ async def search(event):
                     # remove duplicates
                     continue
                 result += f"{title}\n{link}\n\n"
-            prev_and_next_btns = [Button.inline("▶️Next▶️", data=f"next {start+10} {event.text.split()[1]}")]
+            prev_and_next_btns = [Button.inline("▶️ඊලග▶️", data=f"next {start+10} {event.text.split()[1]}")]
             await msg.edit(result, link_preview=False, buttons=prev_and_next_btns)
             await session.close()
