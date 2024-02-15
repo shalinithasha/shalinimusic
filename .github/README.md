@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 𝗕𝗥𝗔𝗡𝗗𝗥𝗗 ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「⛦🦋 𝑰𝑳𝑳𝑼𝑴𝑰𝑵𝑨𝑻𝑰 𝑬𝑴𝑷𝑰𝑹𝑬 🦋⛦」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/29626078a1324cf58ce2a.jpg">
+  <img src="https://t3.ftcdn.net/jpg/05/63/40/42/360_F_563404257_7GReuNjZACa2FSw0anfRSI9zb8pUzIMt.jpg">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗕𝗥𝗔𝗡𝗗𝗘𝗗+𝗞𝗜𝗡𝗚🔥">
 
 <p align="center">
-  <img src="https://te.legra.ph/file/8a552f795414972ea1ba9.jpg">
+  <img src="https://t3.ftcdn.net/jpg/05/63/40/42/360_F_563404257_7GReuNjZACa2FSw0anfRSI9zb8pUzIMt.jpg">
 </p>
 
 <h3 align="center">
