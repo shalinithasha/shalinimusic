@@ -7,10 +7,10 @@ from config import LOGGER_ID as LOG_GROUP_ID
 from BrandrdXMusic import app  
 
 photo = [
-    "https://te.legra.ph/file/758a5cf4598f061f25963.jpg",
-    "https://te.legra.ph/file/30a1dc870bd1a485e3567.jpg",
-    "https://te.legra.ph/file/d585beb2a6b3f553299d2.jpg",
-    "https://te.legra.ph/file/7df9e128dd261de2afd6b.jpg",
+    "https://img.freepik.com/premium-photo/fashion-portrait-beautiful-woman-colored-surface_186382-17324.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/329/327/590/beautiful-girl-1920x1200-wallpaper-preview.jpg",
+    "https://img.freepik.com/premium-photo/portrait-young-beautiful-girl-listening-music-headphones-dancing-isolated-gradient-red-yellow-background-neon_155003-45907.jpg",
+    "https://e0.pxfuel.com/wallpapers/415/395/desktop-wallpaper-girl-guitar-music-mood-beautiful-girl-with-guitar-girls-music.jpg",
     "https://te.legra.ph/file/f60ebb75ad6f2786efa4e.jpg",
 ]
 
